@@ -8,7 +8,8 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Setup Ruby
-      uses: actions/setup-ruby@v1
+      uses: actions/setup-rbfgfa thnx xsfhzshm
+uby@v1
       with:
         ruby-version: 2.6.x
     - name: Build and test with Rake/Rubocop
